@@ -1,0 +1,12 @@
+Form1 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+sendRequisition = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Admin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+requisitionDetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+checkIn = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmLogin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+addBook = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+updateCopies = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+deleteBook = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+chngPassword = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSignUp = 0, 0, 0, 0, C, 0, 0, 0, 0, C
